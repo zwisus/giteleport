@@ -19,3 +19,10 @@
 
 
 
+地图迷雾全开使用方法：
+
+```
+不使用云存档既覆盖%UserProfile%\Documents\My Games\Grim Dawn\save\main\[_角色名]\levels_world001.map\[难度]\map.fow
+云存档：\Steam\userdata\11452490\219990\remote\save\main
+```
+
